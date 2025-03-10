@@ -18,4 +18,4 @@ TODO for later.
 ## 3D printed case
 I haven't finished creating/editing the 3D models to print, but I will add them here once I do.  
 ## Special thanks to the [ZeroWriter1](https://github.com/zerowriter/zerowriter1)
-I used your stuff as a starting point.  If you look at my code then you will realize that I basically started over and programmed it completely differently, but you were an inspiration.  I also borrowed your STLs :)
+I used your stuff as a starting point.  If you look at my code then you will realize that I basically started over and programmed it completely differently, but you were an inspiration.
